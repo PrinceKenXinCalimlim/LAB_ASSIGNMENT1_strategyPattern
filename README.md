@@ -20,8 +20,8 @@ B.  AttackStrategy
 2. ShootArrow
 3. SwingSword
 
+   Refactor the existing codes and provide the UML Diagram:
 
-Refactor the existing codes and provide the UML Diagram:
 ```
 public class Character {
     private String type;
@@ -52,3 +52,10 @@ public class Character {
         }
     }
 }
+```
+# UML Diagram
+![strategy](https://github.com/user-attachments/assets/8a0ec9a7-54c1-4e24-9a78-846914b79115)
+
+
+
+
